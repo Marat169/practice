@@ -1,1 +1,1 @@
-![run](/images/screenshot.png)
+![запуск](./images\screenshot.png)
